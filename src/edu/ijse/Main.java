@@ -8,7 +8,7 @@ package edu.ijse;
  *
  * @author anjan
  */
-public class layered {
+public class Main {
 
     /**
      * @param args the command line arguments
