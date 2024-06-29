@@ -5,6 +5,7 @@
 package edu.ijse;
 
 import edu.ijse.view.ItemView;
+import edu.ijse.view.OrderView;
 
 /**
  *
@@ -16,7 +17,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws Exception {
-        new ItemView().setVisible(true);
+        new OrderView().setVisible(true);
     }
     
 }
